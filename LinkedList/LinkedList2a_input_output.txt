@@ -1,0 +1,17 @@
+Create List one:
+
+Number of elements in list1: 4
+The value of node for list1: 2   
+The value of node for list1: 5
+The value of node for list1: 6
+The value of node for list1: 9
+
+Create List two:
+
+Number of elements in list2: 5
+The value of node for list2: 9
+The value of node for list2: 0
+The value of node for list2: 1
+The value of node for list2: 6
+The value of node for list2: 3
+Concatenated list: 2 5 6 9 9 0 1 6 3

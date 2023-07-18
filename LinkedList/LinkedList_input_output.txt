@@ -1,0 +1,9 @@
+Students:
+Roll: 4, Name: Udit, Age: 21
+Roll: 3, Name: Arsalan, Age: 19
+Roll: 2, Name: Aman, Age: 20
+Roll: 1, Name: Kaushik, Age: 19
+After deletion:
+Roll: 4, Name: Udit, Age: 21
+Roll: 3, Name: Arsalan, Age: 19
+Roll: 1, Name: Kaushik, Age: 19

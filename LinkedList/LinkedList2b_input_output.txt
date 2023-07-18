@@ -1,0 +1,9 @@
+Enter the number of elements want to put in LL 5
+Enter the value of Node: 8
+Enter the value of Node: 3
+Enter the value of Node: 6
+Enter the value of Node: 0
+Enter the value of Node: 2
+
+
+ Expected Output : 0  2  3  6  8

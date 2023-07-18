@@ -1,0 +1,9 @@
+Inserted Element: 6
+Inserted Element: 7
+Inserted Element: 8
+
+
+Deleted element: 6
+Deleted element: 7
+Deleted element: 8
+Queue is empty.
